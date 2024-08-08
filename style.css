@@ -1,0 +1,12 @@
+.game-container {
+  text-align: center;
+}
+
+#game-board {
+  outline: 5px solid black;
+}
+
+.score-text {
+  font-family: "Open Sans";
+  font-size: 100px;
+}
